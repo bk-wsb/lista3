@@ -25,3 +25,6 @@ PRZYKŁADOWE TESTY
   1. posts/1 - sprawdza obecność klucyz: userId, id, title, body
   2. comments/1 - sprawdza obecność kluczy: postId, id, name, email, body
   3. users/1 - sprawdza obecność kluczy: id, name, username, email
+
+# zadanie 2
+Automatyzacja procesów z wykorzystaniem Makefile AUTOMATYZACJA PROCES
