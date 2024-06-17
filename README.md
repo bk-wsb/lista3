@@ -1,6 +1,6 @@
 # lista3
 # zadanie 1
-AUTOMATYZACJA TESTÓW API Z WYKORZYSTANIE CURL
+AUTOMATYZACJA TESTÓW API Z WYKORZYSTANIEM CURL
 
 OPIS
 
@@ -42,6 +42,6 @@ PLIKI
 INSTRUKCJA URUCHOMIENIA
   1. Sklonuj lub pobierz to repozytorium.
   2. W terminalu (w ścieżce z plikami i aplikacjami) wpisz komendy:
-     1. make install
-     2. make test
-     3. make run
+     - make install
+     - make test
+     - make run
