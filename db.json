@@ -5,7 +5,7 @@
     { "userId": 2, "id": 1, "title": "3", "body": "cccccc" }
   ],
   "comments": [
-    { "postId": 1, "id": 1, "name": "AAA", "email": "BBB" },
+    { "postId": 1, "id": 1, "name": "AAA", "email": "BBB", "body": "CCC" },
     { "postId": 2, "id": 1, "name": "DDD", "email": "FFF", "body": "GGG" }
   ],
   "profile": {
