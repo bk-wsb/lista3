@@ -18,8 +18,8 @@ INSTRUKCJA URUCHOMIENIA
 WYNIK
 
   Test posts/1: PASSED
-  Test comments/1: FAILED (Missing key 'body')
-  Test users/1: FAILED (Status Code 404)
+  Test comments/1: PASSED
+  Test users/1: PASSED
 
 PRZYKŁADOWE TESTY
 
