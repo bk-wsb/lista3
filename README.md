@@ -1,6 +1,6 @@
 # lista3
 # zadanie 1
-## Automatyzacja Testów API z wykorzystaniem curl
+AUTOMATYZACJA TESTÓW API Z WYKORZYSTANIE CURL
 
 OPIS
 
@@ -17,11 +17,7 @@ INSTRUKCJA URUCHOMIENIA
 
 WYNIK
 
-  Test posts/1: PASSED
-  
-  Test comments/1: PASSED
-  
-  Test users/1: PASSED
+  Test posts/1: PASSED; Test comments/1: PASSED; Test users/1: PASSED
 
 PRZYKŁADOWE TESTY
 
