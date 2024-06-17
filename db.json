@@ -11,4 +11,7 @@
   "users": [
     { "id": 1, "name": "FF", "username": "MrT", "email": "VVV" }
   ],
+  "profile": [
+    { "name": "typicode" }
+  ]
 }
