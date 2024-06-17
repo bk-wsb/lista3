@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "userId": 1, "id": 1, "title": "1", "body": "aaaaaa" },
+    { "userId": 1, "id": 2, "title": "2", "body": "bbbbbb" },
+    { "userId": 2, "id": 1, "title": "3", "body": "cccccc" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "postId": 1, "id": 1, "name": "AAA", "email": "BBB", "body": "CCC" },
+    { "postId": 2, "id": 1, "name": "DDD", "email": "FFF", "body": "GGG" }
   ],
   "profile": {
     "name": "typicode"
