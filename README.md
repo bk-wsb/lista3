@@ -9,7 +9,9 @@ WYMAGANIA
 - Python 3.x
 - Biblioteka `requests` (pip install requests)
 
-U
-
+INSTRUKCJA URUCHOMIENIA
 1. Sklonuj lub pobierz to repozytorium.
-2. 
+2. Uruchom skrypy 'api_test.py' w terminalu
+
+WYNIK
+
