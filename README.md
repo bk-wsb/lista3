@@ -4,7 +4,7 @@ Automatyzacja Testów API z wykorzystaniem curl
 
 OPIS
 
-Ten skrypt automatyzuje testowanie endpointów API JSONPlaceholder przy użyciu biblioteki `requests`.
+Ten skrypt automatyzuje testowanie endpointów API JSONPlaceholder przy użyciu biblioteki requests.
 
 WYMAGANIA
 - Python 3.x
@@ -24,6 +24,6 @@ Test users/1: FAILED (Status Code 404)
 PRZYKŁADOWE TESTY
 
 Skrypt testuje następujące endpointy:
-1. /posts/1 - sprawdza obecność klucyz: `userId`, `id`, `title`, `body`
-2. -comments/1 - sprawdza obecność kluczy: `postId`, `id`, `name`, `email`, `body`
-3. /users/1 - sprawdza obecność kluczy: `id`, `name`, `username`, `email`
+1. /posts/1 - sprawdza obecność klucyz: userId, id, title, body
+2. /comments/1 - sprawdza obecność kluczy: postId, id, name, email, body
+3. /users/1 - sprawdza obecność kluczy: id, name, username, email
