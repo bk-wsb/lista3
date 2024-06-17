@@ -16,11 +16,12 @@ INSTRUKCJA URUCHOMIENIA
   > python api_test.py
 
 WYNIK
+
 Test posts/1: PASSED
 Test comments/1: FAILED (Missing key 'body')
 Test users/1: FAILED (Status Code 404)
 
-PRZYKLADOWE TESTY
+PRZYKŁADOWE TESTY
 
 Skrypt testuje następujące endpointy:
 1. /posts/1 - sprawdza obecność klucyz: `userId`, `id`, `title`, `body`
