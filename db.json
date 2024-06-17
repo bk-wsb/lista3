@@ -8,7 +8,7 @@
     { "postId": 1, "id": 1, "name": "AAA", "email": "BBB", "body": "CCC" },
     { "postId": 2, "id": 1, "name": "DDD", "email": "FFF", "body": "GGG" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { "id": 1, "name": "FF", "username": "MrT", "email": "VVV" }
+  ],
 }
