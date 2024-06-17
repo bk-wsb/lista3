@@ -16,6 +16,7 @@ INSTRUKCJA URUCHOMIENIA
     > python api_test.py
 
 SKRYPT
+
   Skrypt testuje następujące endpointy:
   1. posts/1 - sprawdza obecność klucyz: userId, id, title, body
   2. comments/1 - sprawdza obecność kluczy: postId, id, name, email, body
@@ -41,7 +42,6 @@ PLIKI
 INSTRUKCJA URUCHOMIENIA
   1. Sklonuj lub pobierz to repozytorium.
   2. W terminalu (w ścieżce z plikami i aplikacjami) wpisz komendy:
-     > make install
-     > make test
-     > make run
-
+     1. make install
+     2. make test
+     3. make run
